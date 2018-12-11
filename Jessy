@@ -2,35 +2,26 @@
 <BODY style="background-color:#dbfaf4;"></BODY>
 <title>IAIO DESCARGA MÚSICA GRATIS</title>
 <body leftmargin="30" topmargin="0" marginwidth="30" marginheight="0" >
-
 <br>
 <IMG SRC="IAIO.png" WIDTH="100" HEIGHT="100">
 <center><h1><b>IAIO DESCARGA MÚSICA GRATIS</b></h1></center>
 <h3>Particiones equivalente (Prueba Manual)</h3>
-
 <table border=1 width=100%>
 <td colspan=5 bgcolor="#4fb4e3"><center><b>IAIO Descargar música gratis</b></center></td><tr>
-
 <td bgcolor="#4fb4e3"><b>Campo</b></td><td bgcolor="#4fb4e3"><b>Condición externa</b></td><td bgcolor="#4fb4e3"><b>Clases de equivalencias validas</b></td><td bgcolor="#4fb4e3"><b>Clases de equivalencias No validas</b></td><td bgcolor="#4fb4e3"><b>Validar</b></td><tr>
 <td>Introduzca un termino o URL</td><td>Alfa-Numérico</td><td>a-z, A-Z, 0-9, caracteres especiales</td><td>En blanco</td><td>ok</td><tr>
 <td>Buscador</td><td>Alfa-Numérico</td><td>a-z, A-Z, 0-9, caracteres especiales</td><td>En blanco</td><td>ok</td><tr>
-
 <td colspan=5 bgcolor="#4fb4e3"><b>Log in to tubidy</b></td><tr>
-
 <td>User name</td><td>Alfa-Numérico</td><td>a-z, A-Z, 0-9, caracteres especiales</td><td>En blanco, Sin registrar</td><td>ok</td><tr>
 <td>Password</td><td>Alfa-Numérico</td><td>a-z, A-Z, 0-9, caracteres especiales</td><td>En blanco</td><td>ok</td><tr>
-
 <td colspan=5 bgcolor="#4fb4e3"><b>Sign up to tubidy</b></td><tr>
-
 <td>User name</td><td>Alfa-Numérico</td><td>a-z, A-Z, 0-9, caracteres especiales</td><td>En blanco, Sin registrar</td><td>ok</td><tr>
 <td>Password</td><td>Alfa-Numérico</td><td>a-z, A-Z, 0-9, caracteres especiales</td><td>En blanco</td><td>ok</td><tr>
 <td>Gender</td><td>cadena</td><td>a-z, A-Z</td><td>0-9</td><td>ok</td><tr>
 <td>Age</td><td>Numérico</td><td>0-9</td><td>En blanco</td><td>ok</td><tr>
 <td>Validation code</td><td>Alfa-Numérico</td><td>a-z, A-Z, 0-9, caracteres especiales</td><td>En blanco, Sin registrar</td><td>ok</td><tr>
 <td>Lenguaje</td><td>cadena</td><td>a-z, A-Z</td><td>En blanco</td><td>Otras opciones de lenguaje.</td><tr>
-
 <td colspan=5 bgcolor="#4fb4e3"><b>My account</b></td><tr>
-
 <td>Login</td><td>Alfa-Numérico</td><td>a-z, A-Z, 0-9, caracteres especiales</td><td>En blanco, Sin registrar</td><td>Se registro la cuenta, pide nuevamente registrarse.</td><tr>
 <td>My Playlists</td><td>Alfa-Numérico</td><td>a-z, A-Z, 0-9, caracteres especiales</td><td>En blanco, Sin registrar</td><td>Se registro la cuenta, pide nuevamente registrarse.</td><tr>
 <td>My stats</td><td>Alfa-Numérico</td><td>a-z, A-Z, 0-9, caracteres especiales</td><td>En blanco, Sin registrar</td><td>Se registro la cuenta, pide nuevamente registrarse.</td><tr>
@@ -41,9 +32,7 @@
 </table>
 <br>
 <br>
-
 <h3>Atributos y entorno de uso</h3>
-
 <table border=1 width=50%>
 <td bgcolor="#4fb4e3"><b>Atributos</b></td><td bgcolor="#4fb4e3"><b>Aplicación Móvil</b></td><tr>
 <td>Efectividad</td><td></td><tr>
@@ -57,7 +46,6 @@
 <td>Seguridad</td><td><center><b>X</b></center></td><tr>
 <td>Portabilidad</td><td></td><tr>
 <td>Contexto</td><td></td><tr>
-
 </table>
 <br>
 <br>
@@ -66,43 +54,33 @@
 </p>
 <center><IMG SRC="producto.jpg" WIDTH="70%"></center>
 <br>
-
 <p><b>Entorno de Validación:</b> En él se describe cada elemento requerido y necesario para realizar la prueba. 
 </p>
 <center><IMG SRC="Entorno de validacion.jpg" WIDTH="70%"></center>
 <br>
-
 <p><b>Equipo de Prueba:</b> Se identifica el personal de pruebas y sus responsabilidades en la validación de la prueba.
 </p>
 <center><IMG SRC="Equipo de prueba.jpg" WIDTH="70%"></center>
 <br>
-
 <p><b>Plan de Prueba:</b> El plan reúne la estrategia de prueba que será aplicada para comprobar los requisitos del proyecto.
 </p>
 <center><IMG SRC="Plan de prueba del producto.jpg" WIDTH="70%"></center>
 <br>
-
 <p><b>Calendario de Programación de pruebas:</b> Se establece el calendario de programación de cada requisito del proyecto que será valido. 
 </p>
 <center><IMG SRC="Calendario de programacion de pruebas.jpg" WIDTH="70%"></center>
 <br>
-
 <p><b>Procedimiento de validación:</b> Describe el procedimiento para realizar la validación.
 </p>
-
 <center><IMG SRC="Procedimiento de validacion.jpg" WIDTH="70%"></center>
 <br>
-
 <p><b>Criterios de prueba de validación:</b> Se refiere a los aspectos que deben considerarse para la validación del proyecto.
 </p>
-
 <center><IMG SRC="Criterio de prueba de validacion.jpg" WIDTH="70%"></center>
 <br>
-
 <p><b>Procedimiento de prueba:</b> Describe los casos de usos y de pruebas que serán aplicados para comprobar los requisitos. 
 </p>
 <center><IMG SRC="Procedimiento de prueba.jpg" WIDTH="70%"></center>
 <br>
 <br>
-
 </HTML>
